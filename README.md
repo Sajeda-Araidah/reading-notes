@@ -1,25 +1,17 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Sajeda-Araidah/reopo.learn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# The growth mindset  :
+``` growth mindset``` helps us grow in whatever we pursue – especially in our work. When we’re growing, we’re more productive . So A ```growth mindset``` believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A ```growth mindset``` is synonymous with a love of learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# How I Can  keep myself in a growth mindset :
+**In The below  Develop a Growth Mindset**
+- Acknowledge and embrace imperfections.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- View challenges as opportunities.
 
-```markdown
-Syntax highlighted code block
+- Value the process over the end result.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Try different learning tactics.
 
 **Bold** and _Italic_ and `Code` text
 
