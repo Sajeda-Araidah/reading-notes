@@ -7,9 +7,9 @@
 
 |  Page Name | Link |
 | --- | --- |
-| `Home Page` | [link](https://github.com/Sajeda-Araidah/reading-notes) |
-|`README1_The Growth Mindset `|[link](README2_The_Growth_Mindset.md)|
-| `README2_HTML_CSS` | [link](README3_HTML_CSS.md)   |
+| `Home Page` | [link](https://sajeda-araidah.github.io/reading-notes/) |
+|`README1_The Growth Mindset `|[link](https://sajeda-araidah.github.io/reading-notes/README2_The_Growth_Mindset)|
+| `README2_HTML_CSS` | [link](https://sajeda-araidah.github.io/reading-notes/README3_HTML_CSS)   |
 |`README3_GARDEN_AND_FLOWERS`|[link](https://sajeda-araidah.github.io/lab03/)|
 
 
