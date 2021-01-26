@@ -27,10 +27,10 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
 # Elemant Of Layout :
 ## 1. Headers & Footers :
 The main header or footer that appears at the top or bottom of every page on the site
-<header> <footer>
+-header- -footer-
 
 ## 2.Navigation :
-The <nav> element is used to contain the major navigational blocks on the site such as the
+The nav element is used to contain the major navigational blocks on the site such as the
 primary site navigation
 <nav>
 
