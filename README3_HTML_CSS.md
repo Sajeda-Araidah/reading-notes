@@ -1,4 +1,4 @@
-#Chapter 18 
+# Chapter 18 
 ## This Chapter  discusses a process that you can use when you are creating a new website.
 
 
@@ -21,5 +21,28 @@ using size, color, and style.
 the information you present.
 
 
-##About Layout of website
+## About Layout of website
 HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already
+
+# Elemant Of Layout :
+## 1. Headers & Footers :
+The main header or footer that appears at the top or bottom of every page on the site
+*<header> <footer>*
+
+## 2.Navigation :
+The *<nav>* element is used to contain the major navigational blocks on the site such as the
+primary site navigation
+*<nav>*
+
+## 3. Articles :
+The *<article>* element acts as a container for any section of a page that could stand alone and potentially be syndicated
+*<article>*
+
+## 4. Asides :
+ The *<aside>* element has two purposes, depending on whetherit is inside an *<article>*element or not.
+*<aside>*
+
+## 5.Sections :
+ The *<section>* element groups related content together, and typically each section would
+have its own heading
+*<section>*
