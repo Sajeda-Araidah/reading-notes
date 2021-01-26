@@ -13,8 +13,8 @@
 
 
 #### My class mate Reema and I created two websites together, you can view them here:
-  [My Webpage](Webindex.html)
- [Reema's Webpage](https://reema-eilouti.github.io/reading-notes/html_css_example.html)
+  * [My Webpage](Webindex.html)
+  * [Reema's Webpage](https://reema-eilouti.github.io/reading-notes/html_css_example.html)
 
 
 
