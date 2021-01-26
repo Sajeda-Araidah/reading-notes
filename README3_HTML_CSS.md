@@ -30,12 +30,11 @@ The main header or footer that appears at the top or bottom of every page on the
 ```header```  ```footer```
 
 ## 2.Navigation :
-The ```nav``` element is used to contain the major navigational blocks on the site such as the
-primary site navigation
-<nav>
+The ```nav``` element is used to contain the major navigational blocks on the site such as the primary site navigation.
+
 
 ## 3. Articles :
-The ```article``` element acts as a container for any section of a page that could stand alone and potentially be syndicated
+The ```article``` element acts as a container for any section of a page that could stand alone and potentially be syndicated.
 
 
 ## 4. Asides :
@@ -43,5 +42,5 @@ The ```article``` element acts as a container for any section of a page that cou
 
 
 ## 5.Sections :
- The ```section``` element groups related content together, and typically each section would have its own heading
+ The ```section``` element groups related content together, and typically each section would have its own heading.
 
