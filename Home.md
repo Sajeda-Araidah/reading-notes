@@ -6,9 +6,9 @@
 
 |  Page Name | Linke |
 | --- | --- |
-| `Home Page` | [link](https://github.com/Sajeda-Araidah/reading-notes/blob/main/README.md) |
-|`README1_The Growth Mindset `|[link](https://github.com/Sajeda-Araidah/reading-notes/blob/main/Read2.md)|
-| `README3_HTML_CSS` | [link](https://github.com/Sajeda-Araidah/reading-notes/blob/main/README3_HTML_CSS.md)   |
+| `Home Page` | [link](https://github.com/Sajeda-Araidah/reading-notes/blob/main/Home.md) |
+|`README1_The Growth Mindset `|[link](https://github.com/Sajeda-Araidah/reading-notes/blob/main/README1_The Growth Mindset.md)|
+| `README2_HTML_CSS` | [link](https://github.com/Sajeda-Araidah/reading-notes/blob/main/README2_HTML_CSS.md)   |
 
 
 
