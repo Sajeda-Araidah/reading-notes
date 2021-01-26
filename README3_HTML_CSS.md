@@ -27,9 +27,10 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
 # Elemant Of Layout :
 ## 1. Headers & Footers :
 The main header or footer that appears at the top or bottom of every page on the site
-*<header> <footer>*
+```header```  ```footer```
 
 ## 2.Navigation :
+<<<<<<< HEAD
 The *<nav>* element is used to contain the major navigational blocks on the site such as the
 primary site navigation
 
@@ -45,4 +46,19 @@ The *<article>* element acts as a container for any section of a page that could
 ## 5.Sections :
  The *<section>* element groups related content together, and typically each section would
 have its own heading
+=======
+The ```nav``` element is used to contain the major navigational blocks on the site such as the primary site navigation.
+
+
+## 3. Articles :
+The ```article``` element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+
+
+## 4. Asides :
+ The ```aside``` element has two purposes, depending on whetherit is inside an <article> element or not.
+
+
+## 5.Sections :
+ The ```section``` element groups related content together, and typically each section would have its own heading.
+>>>>>>> 7fcb49bde90358a584887672e46a67e7ce2ac4d7
 
