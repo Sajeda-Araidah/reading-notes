@@ -49,6 +49,14 @@ understands. In our case, this is JavaScript.
 
 * Use a name that describes the kind of information that the variable stores.
 
+## OPERATORS:
+There are five types of operators:
+* ASSIGNMENT OPERATORS
+* ARITHMETIC OPERATORS 
+* STRING OPERATORS
+* COMPARISON OPERATORS
+* LOGICAL OPERATORS
+
 ## ARRAYS :
 An array is a special type of variable. It doesn't just store one value; it stores a list of values.Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).
 
