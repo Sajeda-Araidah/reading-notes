@@ -25,7 +25,7 @@ There are many different typesof CSS selector that allow you to target rules to 
 # Chapter 11 : Color:
  COLOR can really bring your pages to life.The color property allows you  to specify the color of text inside an element
 ## You can specify any color in CSS in one of three ways:
-* rgb values *
+* rgb values
 These express colors in terms of how much red, green and blue are used to make it up. For
 ### example: rgb(100,100,90)
 * hex codes
@@ -34,6 +34,7 @@ These are six-digit codes that represent the amount of red, green and blue in a 
 * color names
 There are 147 predefined color names that are recognized by browsers.
 ### For example: DarkCyan
+![iro](./iro.PNG)
 
 
 ## CSS 3: Opacity opacity, rgba
