@@ -6,7 +6,7 @@
 * ```var var2 = 4;```
 
 
-|Operator|       	   Description|                            	 |Examples returning true|
+|Operator|       	   Description               |Examples returning true|
 | --- | --- |
 | Equal (==)|Returns true if the operands are equal.|3 == var1     "3" == var1     3 == '3'|
 |Not equal (!=)|Returns true if the operands are not equal.	        |var1 != 4 var2 != "3"|
@@ -21,7 +21,7 @@
 ## JavaScript Logical Operators
 Logical operators perform logical operations: ```AND```, ```OR``` and ```NOT```, look the following table:
 
-|Operator|       	   Description|                            	 |Examples |
+|Operator|       	   Description|                            	 Examples |
 | --- | --- |
 |```&&	Logical AND:```| true if both the operands/boolean values are true, else evaluates to false	|true && false; // false|
 |	```Logical OR:```| true if either of the operands/boolean values is true. evaluates to false if both are false	true | false; // true|

@@ -12,7 +12,9 @@
 |`README3_GARDEN_AND_FLOWERS`|[GARDEN_AND_FLOWERS](https://sajeda-araidah.github.io/lab03/)|
 | `README2_HTML_CSS` | [HTML_CSS](https://sajeda-araidah.github.io/reading-notes/README3_HTML_CSS)   |
 |`README4_JavaScript & Jquray`|[JavaScript & Jquray](https://sajeda-araidah.github.io/reading-notes/JavaScript_Jquray)|
-|`README5`|[JavaScript Part2](https://sajeda-araidah.github.io/reading-notes/README5)||
+|`README5`|[JavaScript Part2](https://sajeda-araidah.github.io/reading-notes/README5)|
+|`README06b`|[CSS : Intr & Color](https://sajeda-araidah.github.io/reading-notes/README06b)|
+
 
 
 
