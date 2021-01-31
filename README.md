@@ -1,4 +1,4 @@
-  # Welcom to You [img](./SajedaPic.jpg")
+  # Welcom to You 
   
   ## There is Sajeda Araidah Iam Trainee @LTUC /ASAC with Lovely Miss  Roqiah     
 
