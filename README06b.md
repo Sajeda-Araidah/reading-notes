@@ -1,10 +1,10 @@
 # Chapter 10 : CSS
-## In this section, we will look at how to make your web pages more attractive, controlling the design of them using CSS. CSS allows you to create rules that specify how the content of an element should appear.
+### In this section, we will look at how to make your web pages more attractive, controlling the design of them using CSS. CSS allows you to create rules that specify how the content of an element should appear.
 
 ## A CSS rule contains two parts: a selector and a declaration.
 ![css](./css.PNG)
-* Selectors * indicate which element the rule applies to. 
-* Declarations * indicate how the elements referred to in the selector should be styled.Declarations are split into two parts (a property and a value),and are separated by a colon.
+* Selectors*  indicate which element the rule applies to. 
+* Declarations  indicate how the elements referred to in the selector should be styled.Declarations are split into two parts (a property and a value),and are separated by a colon.
 
 ## We Can use CSS In :
 * Inline 
@@ -15,12 +15,13 @@
 The <link> element can be used in an HTML document to tell the browser where to find the CSS file used to style the page. It is an empty element (meaning it does not need a closing tag), and it lives inside the <head> element.
 
 It should use three attributes:
-## href
-## type
-## rel
+ href ,
+type, 
+ rel
 
 # CSS Selectors : 
 There are many different typesof CSS selector that allow you to target rules to specific elementsin an HTML document.
+
 |Selector| Meaning |Example|
 | --- | --- |
 |Universal Selector|Applies to all elements in the document|* {} Targets all elements on the page|
