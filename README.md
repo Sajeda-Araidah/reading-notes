@@ -14,6 +14,8 @@
 |`README4_JavaScript & Jquray`|[JavaScript & Jquray](https://sajeda-araidah.github.io/reading-notes/JavaScript_Jquray)|
 |`README5`|[JavaScript Part2](https://sajeda-araidah.github.io/reading-notes/README5)|
 |`README06b`|[CSS : Intr & Color](https://sajeda-araidah.github.io/reading-notes/README06b)|
+|`README06a`|[Java Script : Function](https://sajeda-araidah.github.io/reading-notes/README06a)|
+
 
 
 
