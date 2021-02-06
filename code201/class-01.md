@@ -1,26 +1,29 @@
-Introduction:
+# Introduction:
 All websites use HTML and CSS, Understanding HTML and CSS and Java Script can help anyone who works with the web; designers can create more attractive and usable sites, website editors can create better content, marketers can communicate with their audience more effectively, and managers can commission better sites and get the best out of their teams.
 
-HTML is used to create web pages. You then add tags or elements like text, lists, links, images, tables, forms, video audio and flash, and miscellaneous elements.
+##### HTML is used to create web pages. You then add tags or elements like text, lists, links, images, tables, forms, video audio and flash, and miscellaneous elements.
 
-How People Access the Web?
+### How People Access the Web?
 Different ways in which people access the web and clarify some terminology:
-•	Browsers  People access websites using software called a web browser. Like Firefox, Internet Explorer, Safari, Chrome, and Opera
-•	Web Servers When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website
-•	Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
-•	Devices People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones.
+**Browsers**  People access websites using software called a web browser. Like Firefox, Internet Explorer, Safari, Chrome, and Opera
+**Web Servers** When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website
+**Screen readers** are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
+**Devices** People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones.
 
 When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 
 
-![page1](./ClientServer.gif) 
+![page1](./code201/ClientServer.gif) 
 Figure 1:How  the Web Works
-Chapter 2: Structure:
+
+
+
+# Chapter 2: Structure:
 Structure of web page looks like newspaper or WORD document, there will be a headline, some text, and possibly some
 images.
 In HTML Structure of web page look like this :
 HTML uses tags (characters that sit inside angled brackets) to give the information ,Tags usually come in pairs ,The opening tag and the closing tag.
- ![page2](./yoko-html5.png) 
+ ![page2](./code201/yoko-html5.png) 
 Figure 2 Web Page Structure
 
 # Chapter 8: Extra Markup:
@@ -51,4 +54,40 @@ Escape characters are used to include special characters in your pages such as <
 
 
 # Chapter 17: HTML5 Layout:
+# Elemant Of Layout :
+## 1. Headers & Footers :
+The main header or footer that appears at the top or bottom of every page on the site
+```header```  ```footer```
 
+## 2.Navigation :
+<<<<<<< HEAD
+The *<nav>* element is used to contain the major navigational blocks on the site such as the
+primary site navigation
+
+
+## 3. Articles :
+The *<article>* element acts as a container for any section of a page that could stand alone and potentially be syndicated
+
+
+## 4. Asides :
+ The **<aside>** element has two purposes, depending on whetherit is inside an *<article>*element or not.
+
+
+## 5.Sections :
+ The **<section>** element groups related content together, and typically each section would
+have its own heading
+
+The ```nav``` element is used to contain the major navigational blocks on the site such as the primary site navigation.
+
+
+## 3. Articles :
+The ```article``` element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+
+
+## 4. Asides :
+ The ```aside``` element has two purposes, depending on whetherit is inside an <article> element or not.
+
+
+## 5.Sections :
+ The ```section``` element groups related content together, and typically each section would have its own heading.
+![page3](./code201/Figure01.png)
