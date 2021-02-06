@@ -89,7 +89,7 @@ The ```article``` element acts as a container for any section of a page that cou
 
 ## 5.Sections :
  The ```section``` element groups related content together, and typically each section would have its own heading.
-![page3](./Figure01.png)
+![page3](./code201/Figure01.png)
 
 ## 6.Heading Groups
 The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.
