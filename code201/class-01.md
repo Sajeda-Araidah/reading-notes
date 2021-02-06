@@ -13,14 +13,14 @@ Different ways in which people access the web and clarify some terminology:
 When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 
 
-![page1](./calss-01/ClientServer.gif) 
+![page1](./ClientServer.gif) 
 Figure 1:How  the Web Works
 Chapter 2: Structure:
 Structure of web page looks like newspaper or WORD document, there will be a headline, some text, and possibly some
 images.
 In HTML Structure of web page look like this :
 HTML uses tags (characters that sit inside angled brackets) to give the information ,Tags usually come in pairs ,The opening tag and the closing tag.
- ![page2](./calss-01/yoko-html5.png) 
+ ![page2](./yoko-html5.png) 
 Figure 2 Web Page Structure
 
 # Chapter 8: Extra Markup:
