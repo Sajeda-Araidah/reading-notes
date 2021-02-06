@@ -23,8 +23,8 @@ Structure of web page looks like newspaper or WORD document, there will be a hea
 images.
 In HTML Structure of web page look like this :
 HTML uses tags (characters that sit inside angled brackets) to give the information ,Tags usually come in pairs ,The opening tag and the closing tag.
-> ![page2](./yoko-html5.png) 
->Figure 2 Web Page Structure
+> ![page2](./code201/yoko-html5.png) 
+
 
 # Chapter 8: Extra Markup:
 ## Q: Why we did use DOCTYPE?
@@ -76,9 +76,6 @@ The <article> element acts as a container for any section of a page that could s
  The <section> element groups related content together, and typically each section would
 have its own heading
 
-The ```nav``` element is used to contain the major navigational blocks on the site such as the primary site navigation.
-
-
 ## 3. Articles :
 The ```article``` element acts as a container for any section of a page that could stand alone and potentially be syndicated.
 
@@ -121,9 +118,9 @@ You can use grouping and similarity to help simplify the information you present
 ### A
 What is a script and how do I create one?
 A script is a series of instructions that a computer can follow to achieve a goal.
-•	RECIPES
-•	HANDBOOKS
-•	MANUALS
+• RECIPES
+• HANDBOOKS
+• MANUALS
 To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
 a script is just a series of short instructions, each of which is performed in order to solve the problem in hand
 ### B
