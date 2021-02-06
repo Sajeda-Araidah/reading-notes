@@ -23,7 +23,7 @@ Structure of web page looks like newspaper or WORD document, there will be a hea
 images.
 In HTML Structure of web page look like this :
 HTML uses tags (characters that sit inside angled brackets) to give the information ,Tags usually come in pairs ,The opening tag and the closing tag.
-> ![page2](./code201/yoko-html5.png) 
+> ![page2](./yoko-html5.png) 
 >Figure 2 Web Page Structure
 
 # Chapter 8: Extra Markup:
@@ -60,21 +60,20 @@ The main header or footer that appears at the top or bottom of every page on the
 ```header```  ```footer```
 
 ## 2.Navigation :
-<<<<<<< HEAD
-The *<nav>* element is used to contain the major navigational blocks on the site such as the
+The <nav> element is used to contain the major navigational blocks on the site such as the
 primary site navigation
 
 
 ## 3. Articles :
-The *<article>* element acts as a container for any section of a page that could stand alone and potentially be syndicated
+The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated
 
 
 ## 4. Asides :
- The **<aside>** element has two purposes, depending on whetherit is inside an *<article>*element or not.
+ The <aside> element has two purposes, depending on whetherit is inside an *<article>*element or not.
 
 
 ## 5.Sections :
- The **<section>** element groups related content together, and typically each section would
+ The <section> element groups related content together, and typically each section would
 have its own heading
 
 The ```nav``` element is used to contain the major navigational blocks on the site such as the primary site navigation.
@@ -90,25 +89,36 @@ The ```article``` element acts as a container for any section of a page that cou
 
 ## 5.Sections :
  The ```section``` element groups related content together, and typically each section would have its own heading.
-![page3](./code201/Figure01.png)
+![page3](./Figure01.png)
 
 ## 6.Heading Groups
 The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.
 
 
+----------------------------------------------------------------------------------------------------
+
+
 # Chapter 18 :Process & Design
 This Chapter discusses a process that you can use when you are creating a new website.
-Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important understand who your target audience is. and understand who your visitors are, most will visit for a specific reason.
+
+Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore 
+
+very important understand who your target audience is. and understand who your visitors are, most will visit for a specific reason.
+
 Site maps allow you to plan the structure of a site.
+
 Wireframes allow you to organize the information that will need to go on each page.
+
 Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
+
 You can differentiate between pieces of information using size, color, and style.
+
 You can use grouping and similarity to help simplify the information you present.
 
 
 # Part2 : Java Script
 ## A-B-C Programming
-A
+### A
 What is a script and how do I create one?
 A script is a series of instructions that a computer can follow to achieve a goal.
 •	RECIPES
@@ -116,9 +126,9 @@ A script is a series of instructions that a computer can follow to achieve a goa
 •	MANUALS
 To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
 a script is just a series of short instructions, each of which is performed in order to solve the problem in hand
-B
+### B
 How do computers fit in with the world around them?
-C
+### C
 How do I write a script for a web page?
 To achieve the goal Follow smaller steps: 
 1.DEFINE THE GOAL 
