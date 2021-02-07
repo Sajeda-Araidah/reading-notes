@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>This Code201 Class </title>
+    <style>
+        /*-- Internal style */
+        h1 {
+            color: blueviolet;
+            background-color: burlywood;
+            font-style: italic;
+        }
+
+
+        #info4 {
+            background-color: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    <header></header>
+    <main>
+        <h1>" Class 1 Lab " </h1>
+        <h1 id="info"> </h1>
+        <p  id="info1"style="background-color: lightseagreen; font-style: italic;"></p>
+        <p id="info2" style="background-color: red;  font-style: italic;"></p>
+        <p id="info3"  style="background-color: orange;  font-style: italic;" ></p>
+        <p id="info4"></p>
+    </main>
+    <footer></footer>
+    <script>
+        let YourName = prompt("Please Enter Your Name!");
+        alert("Welcom  " + '  ' + YourName);
+        let YourAge = prompt("Please Enter Your Age!");
+        alert("You Tell Me Youe Age   " + '  ' + YourAge);
+        let YourCity = prompt("Please Enter Your City!");
+        alert("You Your are from  " + '  ' + YourCity);
+        let YourJob = prompt("Please Enter Your Job!");
+        alert("And Work As  " + '  ' + YourJob);
+
+        document.getElementById('info').innerHTML = "Welcom" + '  ' + YourName +
+            "You Tell Me Youe Age " + '  ' + YourAge +
+            "You Your are from " + '  ' + YourCity +
+            "And Work As" + '  ' + YourJob;
+
+
+        console.log("your name is  " + YourName);
+        console.log("your Age is   " + YourAge);
+        console.log("your City is  " + YourCity);
+        console.log("your Job is   " + YourJob);
+
+
+        if (YourName.charAt(0) == 's' || YourName.charAt(0) == 'S') {
+            document.getElementById('info').innerHTML = "Welcom  " + '  ' + YourName;
+            document.getElementById('info1').innerHTML = "You Tell Me Youe Age   " + '  ' + YourAge;
+            document.getElementById('info2').innerHTML = "You Your are from  " + '  ' + YourCity;
+            document.getElementById('info3').innerHTML = "And Work As  " + '  ' + YourJob;
+
+
+        } else {
+            document.getElementById('info4').innerHTML = "Your name Don't Star with S letters ";
+        }
+
+
+    </script>
+</body>
+
+</html>

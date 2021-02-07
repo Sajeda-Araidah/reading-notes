@@ -23,6 +23,7 @@
 |  Page Name | Link |
 | --- | --- |
 |`class-01`|[HTML5 && JS](https://sajeda-araidah.github.io/reading-notes/code201/class-01)|
+|`class-02`|[TEXT ](https://sajeda-araidah.github.io/reading-notes/code201/class-02)|
 
 
 
