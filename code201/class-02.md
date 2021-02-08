@@ -92,13 +92,78 @@ themes such as a change of
 There are many different typesof CSS selector that allow you to target rules to specific elementsin an HTML document.
 
 |Selector| Meaning |Example|
-
 | --- | --- |
-
 |```Universal Selector```|Applies to all elements in the document|* { } Targets all elements on the page|
-
-|```Type Selector```|Matches element names|h1, h2, h3  { } Targets the <h1>, <h2> and <h3> elements|
-
+|```Type Selector```|Matches element names|h1, h2, h3  { } Targets the `<h1>`, `<h2>` and `<h3>` elements|
 |```Class Selector```|Matches an element whose class attribute has a value thatmatches the one specified after the period (or full stop) symbol|.note { } Targets any element whose class attribute has a value of note |
-
 |```ID Selector```|Matches an element whose id attribute has a value that matches the one specified afterthe pound or hash symbol|#introduction { } Targets the element whose id attribute has a value of introduction|
+
+
+# BASIC JAVASCRIPT INSTRUCTION
+
+## SCRIPT 
+- A **script** is a series of instructions that a computer can follow one-by-one.
+
+- Each individual instruction or step is known as a statement.
+
+- Statements should end with a semicolon.
+
+- JAVASCRIPT IS CASE SENSITIVE
+
+## COMMENTS
+
+- You should write comments to explain what your code does.
+
+- They help make your code easier to read and understand.
+
+- This can help you and others who read your code.
+
+**MULTI-LINE COMMENTS**
+
+` /* Th i s script displays a greeting to the user based upon the current time.It is an example from JavaScript & jQuery book */ `
+
+`var today= new Date();`
+`var hour Now = today.getHours();`
+`var greeting;`
+
+**SINGLE-LINE COMMENTS**
+
+`// Create a ne1~ dat e object`
+
+# DATA TYPES IN JAVASCRIPT :
+JavaScript distinguishes between numbers,strings, and true or false values known asBooleans.
+
+**NUMERIC DATA TYPE**
+The numeric data type handles
+numbers.
+`0.75`
+
+**STRING DATA TYPE**
+The strings data type consists of
+letters and other characters.
+`'HI' Ivy! 1`
+
+## BOOLEAN DATA TYPE
+Boolean data types can have one
+of two va lues: true or false.
+`true```
+
+### RULES FOR NAMING VARIABLES
+
+- The first character must be a letter or an underscore (_). 
+
+- You can't use a number as the first character. The rest of the variable name can include any letter, any number, or the underscore. You can't use any other characters, including spaces, symbols, and punctuation marks.
+
+- variable names are case sensitive. That is, a variable named Interest_Rate is treated as an entirely different variable than one named interest_rate.
+
+- There's no limit to the length of the variable name.
+
+- You can't use one of JavaScript's reserved words as a variable name.
+
+
+### Array 
+is a special type of variable. It doesn't
+just store one value; it stores a list of values.
+
+
+
