@@ -22,10 +22,11 @@
 
 |  Page Name | Link |
 | --- | --- |
-|`class-01`|[HTML5 && JS](https://sajeda-araidah.github.io/reading-notes/code201/class-01)|
-|`class-02`|[TEXT ](https://sajeda-araidah.github.io/reading-notes/code201/class-02)|
-|`class-03`|[LISTS ](https://sajeda-araidah.github.io/reading-notes/code201/class-03)|
+|`class-01`|[Introductory HTML and JavaScript](https://sajeda-araidah.github.io/reading-notes/code201/class-01)|
+|`class-02`|[Basics of HTML, CSS & JS](https://sajeda-araidah.github.io/reading-notes/code201/class-02)|
+|`class-03`|[HTML Lists, Control Flow with JS, and the CSS Box Model](https://sajeda-araidah.github.io/reading-notes/code201/class-03)|
 |`class-04`|[HTML Links, JS Functions, and Intro to CSS Layout](https://sajeda-araidah.github.io/reading-notes/code201/class-04)|
+|`class-05`|[HTML Images; CSS Color & Text](https://sajeda-araidah.github.io/reading-notes/code201/class-05)|
 
 
 
