@@ -25,6 +25,9 @@
 |`class-01`|[HTML5 && JS](https://sajeda-araidah.github.io/reading-notes/code201/class-01)|
 |`class-02`|[TEXT ](https://sajeda-araidah.github.io/reading-notes/code201/class-02)|
 |`class-03`|[LISTS ](https://sajeda-araidah.github.io/reading-notes/code201/class-03)|
+|`class-04`|[HTML Links, JS Functions, and Intro to CSS Layout](https://sajeda-araidah.github.io/reading-notes/code201/class-04)|
+
+
 
 
 
