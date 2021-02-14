@@ -28,6 +28,9 @@
 |`class-04`|[HTML Links, JS Functions, and Intro to CSS Layout](https://sajeda-araidah.github.io/reading-notes/code201/class-04)|
 |`class-05`|[HTML Images; CSS Color & Text](https://sajeda-araidah.github.io/reading-notes/code201/class-05)|
 |`class-06`|[Problem Domain, Objects, and the DOM](https://sajeda-araidah.github.io/reading-notes/code201/class-06)|
+|`class-07`|[HTML Tables; JS Constructor Functions](https://sajeda-araidah.github.io/reading-notes/code201/class-07)|
+
+
 
 
 
