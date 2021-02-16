@@ -94,12 +94,10 @@ no value has been assigned to it yet)
 
 JavaScript also defines a complex data type:
 
-
 6.0bject
 
 
 ## NUMBER OBJECT
-
 
 ![Pic2](o2.PNG)
 
@@ -107,7 +105,6 @@ JavaScript also defines a complex data type:
 ## MATH OBJECT
 
 ![Pic2](o3.PNG)
-
 
 
 ## DATE OBJECT (AND TIME)
