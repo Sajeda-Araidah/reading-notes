@@ -30,7 +30,7 @@
 |`class-06`|[Problem Domain, Objects, and the DOM](https://sajeda-araidah.github.io/reading-notes/code201/class-06)|
 |`class-07`|[HTML Tables; JS Constructor Functions](https://sajeda-araidah.github.io/reading-notes/code201/class-07)|
 |`class-08`|[HTML Links, JS Functions, and Intro to CSS Layout](https://sajeda-araidah.github.io/reading-notes/code201/class-04)|
-
+|`class-09`|[Forms and Events](https://sajeda-araidah.github.io/reading-notes/code201/class-09)|
 
 
 
