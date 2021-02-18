@@ -31,6 +31,7 @@
 |`class-07`|[HTML Tables; JS Constructor Functions](https://sajeda-araidah.github.io/reading-notes/code201/class-07)|
 |`class-08`|[HTML Links, JS Functions, and Intro to CSS Layout](https://sajeda-araidah.github.io/reading-notes/code201/class-04)|
 |`class-09`|[Forms and Events](https://sajeda-araidah.github.io/reading-notes/code201/class-09)|
+|`class-10`|[Error Handling & Debugging](https://sajeda-araidah.github.io/reading-notes/code201/class-10)|
 
 
 
