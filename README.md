@@ -33,6 +33,7 @@
 |`class-09`|[Forms and Events](https://sajeda-araidah.github.io/reading-notes/code201/class-09)|
 |`class-10`|[Error Handling & Debugging](https://sajeda-araidah.github.io/reading-notes/code201/class-10)|
 |`class-11`|[ Audio, Video, Images](https://sajeda-araidah.github.io/reading-notes/code201/class-11)|
+|`class-12`|[Docs for the HTML <canvas> Element & Chart.js](https://sajeda-araidah.github.io/reading-notes/code201/class-12)|
 
 
 
