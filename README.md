@@ -46,7 +46,7 @@
 
 |  Page Name | Link |
 | --- | --- |
-| `class-01` | [Home Page](https://sajeda-araidah.github.io/reading-notes/) |
+| `Read-01` | [SMACSS and Responsive Web Designs.](https://sajeda-araidah.github.io/reading-notes/code301/Read01.md)|
 
 
 # Code 401 Reading Notes
