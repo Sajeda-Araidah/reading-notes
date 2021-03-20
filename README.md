@@ -1,6 +1,11 @@
   # Welcom to You 
   
-  ## There is Sajeda Araidah Iam Trainee @LTUC /ASAC with Lovely Miss  Roqiah     
+  ## My Name is Sajeda Mouhammad Araidah , I am 24 old year, I graduated from Yarmouk University My Background is Computer Engineering, I have one year of experience in oracle and oracle APEX, I joined To ASAC to learn more skills in software engineering to be full-stack, I am so excited about a new level of coding.
+
+ 
+
+
+
 
 # Code 102 Reading Notes
 ## Intro to Software Development
