@@ -3,8 +3,7 @@
 
 |Event|Target|
 |`DOMContentLoaded`|Event fires when the DOM tree is formed (images, CSS, and JavaScript might still be loading).|
-|`hashchange`|Event fires when the URL hash changes (without the entire
-window refreshing).|
+|`hashchange`|Event fires when the URL hash changes (without the entire window refreshing).|
 |`beforeun load`|Event fires on the window object before the page is unloaded.|
 
 # jQuery 

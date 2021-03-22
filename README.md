@@ -51,8 +51,8 @@
 
 |  Page Name | Link |
 | --- | --- |
-| `Read-01` | [SMACSS and Responsive Web Designs.](https://sajeda-araidah.github.io/reading-notes/code301/Read01.md)|
-| `Read-02` | [ jQuery, Events, and The DOM.](https://sajeda-araidah.github.io/reading-notes/code301/Read02.md)|
+| `Read-01` | [SMACSS and Responsive Web Designs.](https://sajeda-araidah.github.io/reading-notes/code301/Read01)|
+| `Read-02` | [ jQuery, Events, and The DOM.](https://sajeda-araidah.github.io/reading-notes/code301/Read02)|
 
 
 # Code 401 Reading Notes
