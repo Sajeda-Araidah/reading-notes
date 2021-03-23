@@ -53,7 +53,7 @@
 | --- | --- |
 | `Read-01` | [SMACSS and Responsive Web Designs.](https://sajeda-araidah.github.io/reading-notes/code301/Read01)|
 | `Read-02` | [ jQuery, Events, and The DOM.](https://sajeda-araidah.github.io/reading-notes/code301/Read02)|
-
+| `Read-03` | [ Flexbox and Templating.](https://sajeda-araidah.github.io/reading-notes/code301/Read03)|
 
 # Code 401 Reading Notes
 ## Advanced Software Development
