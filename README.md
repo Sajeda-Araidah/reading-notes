@@ -57,7 +57,8 @@
 | `Read-04` | [ CSS Grid.](https://sajeda-araidah.github.io/reading-notes/code301/Read04)|
 | `Read-05` | [ Heroku Deployment.](https://sajeda-araidah.github.io/reading-notes/code301/Read05)|
 | `Read-06` | [NODE.JS](https://sajeda-araidah.github.io/reading-notes/code301/Read06)|
-| `Read-07` | [NODE.JS](https://sajeda-araidah.github.io/reading-notes/code301/Read06)|
+| `Read-07` | [REST](https://sajeda-araidah.github.io/reading-notes/code301/Read07)|
+| `Read-08` | [SQL](https://sajeda-araidah.github.io/reading-notes/code301/Read08)|
 
 # Code 401 Reading Notes
 ## Advanced Software Development
