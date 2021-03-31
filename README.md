@@ -60,6 +60,7 @@
 | `Read-07` | [REST](https://sajeda-araidah.github.io/reading-notes/code301/Read07)|
 | `Read-08` | [SQL](https://sajeda-araidah.github.io/reading-notes/code301/Read08)|
 | `Read-09` | [Refactoring](https://sajeda-araidah.github.io/reading-notes/code301/Read09)|
+| `Read-10` | [Call Stack ](https://sajeda-araidah.github.io/reading-notes/code301/Read10)|
 
 # Code 401 Reading Notes
 ## Advanced Software Development
