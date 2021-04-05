@@ -62,6 +62,7 @@
 | `Read-09` | [Refactoring](https://sajeda-araidah.github.io/reading-notes/code301/Read09)|
 | `Read-10` | [Call Stack ](https://sajeda-araidah.github.io/reading-notes/code301/Read10)|
 | `Read-11` | [Call Stack ](https://sajeda-araidah.github.io/reading-notes/code301/Read11)|
+| `Read-12` | [EJS Partial ](https://sajeda-araidah.github.io/reading-notes/code301/Read12)|
 
 # Code 401 Reading Notes
 ## Advanced Software Development
