@@ -63,6 +63,7 @@
 | `Read-10` | [Call Stack ](https://sajeda-araidah.github.io/reading-notes/code301/Read10)|
 | `Read-11` | [Call Stack ](https://sajeda-araidah.github.io/reading-notes/code301/Read11)|
 | `Read-12` | [EJS Partial ](https://sajeda-araidah.github.io/reading-notes/code301/Read12)|
+| `Read-13` | [Update /Delete](https://sajeda-araidah.github.io/reading-notes/code301/Read13)|
 
 # Code 401 Reading Notes
 ## Advanced Software Development
